@@ -1,4 +1,4 @@
-# Módulo Python
+# Módulo de Exemplo Python - disciplina scc0124
 
 year = 2021
 professor = 'Moacir A. Ponti'
